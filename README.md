@@ -67,9 +67,11 @@ I'm a Full Stack Developer from **Kakatiya Institute of Technology and Science, 
 
 <div align="center">
 
-![Arram Rishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arramrishika2007&show_icons=true&theme=tokyonight&hide_border=true)
+![Arram Rishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arramrishika2007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arramrishika2007&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arramrishika2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arramrishika2007&theme=tokyonight&hide_border=true)
 
 </div>
 
