@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=800&repeat=false&lines=Hi%2C+I'm+Arram+Rishika+👋)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=900&repeat=false&lines=Full+Stack+Developer+%7C+Spring+Boot+%C2%B7+Next.js+%C2%B7+React+%7C+Building+real-world+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=1000&repeat=false&lines=Full+Stack+Developer+%7C+Spring+Boot+%C2%B7+Next.js+%C2%B7+React+%7C+Building+real-world+products)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-arram/)
 [![Portfolio](https://img.shields.io/badge/Live_App-appointunified--v1.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://appointunified-v1.vercel.app)
@@ -67,7 +67,7 @@ I'm a Full Stack Developer from **Kakatiya Institute of Technology and Science, 
 
 <div align="center">
 
-![Arram Rishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arramrishika2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Arram Rishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arramrishika2007&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arramrishika2007&layout=compact&theme=tokyonight&hide_border=true)
 
